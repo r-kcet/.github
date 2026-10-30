@@ -11,3 +11,7 @@ Whether you're preparing for KCET or looking to guide the next batch, you're wel
 - [**Subreddit**](https://reddit.com/r/kcet)
 - [**Discord Server**](https://discord.gg/K36SHUK56c)
 - [**📨 Contact The Moderators**](https://www.reddit.com/message/compose?to=/r/kcet)
+
+**Note:**
+
+r/Kcet is an independent, unofficial community created by students and alumni. It is not affiliated with, endorsed by, or associated with the Karnataka Examinations Authority (KEA), the Government of Karnataka, or any other government body. All information shared here is for general guidance and informational purposes only. For official updates, please refer to the KEA website.
